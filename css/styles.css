@@ -25,3 +25,25 @@ h2 {
 
 h3 {
   color: #FFF1BD; }
+
+.mint {
+  padding-top: 10%; }
+
+/*Movil*/
+/* MEDIA MOVIL INFO */
+/* MEDIA MOVIL REGISTRO */
+@media (max-width: 780px) and (orientation: portrait) {
+  .contract {
+    font-size: 0.8rem !important; }
+  p {
+    font-size: 0.8rem; }
+  .textBuy {
+    display: flex !important;
+    flex-direction: column !important;
+    text-align: justify;
+    font-size: 0.7rem !important; }
+  .heros {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 250px !important;
+    height: 200px !important; } }
