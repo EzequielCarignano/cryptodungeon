@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+body {
+  background: #288633;
+  background: linear-gradient(90deg, #288633 0%, #1a4b20 39%, #011404 100%); }
+
+.navbar-bar, .redes {
+  margin-right: 20%; }
+
+.firstSection {
+  background-color: #14635600;
+  padding: 5%; }
+
+.titulo {
+  padding-top: 10%;
+  color: #f8db70; }
+  .titulo p {
+    color: #FFF1BD; }
+
+h2 {
+  color: #f8db70; }
+
+h3 {
+  color: #FFF1BD; }
