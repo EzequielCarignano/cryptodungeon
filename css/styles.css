@@ -8,7 +8,7 @@ body {
   background: linear-gradient(90deg, #288633 0%, #1a4b20 39%, #011404 100%); }
 
 .navbar-bar, .redes {
-  margin-right: 20%; }
+  margin-right: 15%; }
 
 .firstSection {
   background-color: #14635600;
@@ -20,6 +20,9 @@ body {
   .titulo p {
     color: #FFF1BD; }
 
+h1 {
+  color: #f8db70; }
+
 h2 {
   color: #f8db70; }
 
@@ -28,6 +31,9 @@ h3 {
 
 .mint {
   padding-top: 10%; }
+
+.privacidad, p, li {
+  color: #FFF1BD; }
 
 /*Movil*/
 /* MEDIA MOVIL INFO */
@@ -46,7 +52,8 @@ h3 {
     display: flex !important;
     flex-direction: column !important;
     width: 250px !important;
-    height: 200px !important; } }
+    height: 200px !important;
+    margin: 0% auto !important; } }
 
 footer {
   margin: 0%;
@@ -55,19 +62,19 @@ footer {
   flex-direction: column; }
   footer img {
     height: 3%;
-    width: 3%;
-    margin-left: 2%; }
+    width: 3%; }
 
 .footerElementos {
   color: white;
   text-align: center;
   padding: 2%;
-  margin: 0%; }
+  margin: 0% 5%; }
 
 .footerLinks {
   font-size: 1rem;
-  margin: 0% 2%;
+  margin: 0% 10px;
   color: white;
   text-decoration: none; }
-  .footerLinks :hover {
-    color: seagreen; }
+
+.socialNetwork img {
+  margin: 0 auto; }

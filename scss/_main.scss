@@ -5,7 +5,7 @@ background: linear-gradient(90deg, rgba(40,134,51,1) 0%, rgba(26,75,32,1) 39%, r
 
 
 .navbar-bar , .redes{
-    margin-right: 20%;
+    margin-right: 15%;
 }
 
 .firstSection{
@@ -21,6 +21,9 @@ background: linear-gradient(90deg, rgba(40,134,51,1) 0%, rgba(26,75,32,1) 39%, r
     }
 
 }
+h1{
+    color: #f8db70
+}
 h2{
     color: #f8db70
 }
@@ -32,4 +35,7 @@ h3{
 .mint{
     padding-top: 10%;
 }
+.privacidad, p, li {
+    color: #FFF1BD;
+  }
 
